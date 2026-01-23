@@ -10,7 +10,7 @@
   font-display: block;
 }
 
-[class^="Broadlinkinternet-icons-two-"], [class*=" Broadlinkinternet-icons-two-"] {
+[class^="zeinet-icons-two-"], [class*=" zeinet-icons-two-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
   speak: never;
@@ -25,66 +25,66 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.Broadlinkinternet-icons-two-arrow-left:before {
+.zeinet-icons-two-arrow-left:before {
   content: "\e900";
 }
-.Broadlinkinternet-icons-two-arrow-right:before {
+.zeinet-icons-two-arrow-right:before {
   content: "\e901";
 }
-.Broadlinkinternet-icons-two-arrow-up:before {
+.zeinet-icons-two-arrow-up:before {
   content: "\e902";
 }
-.Broadlinkinternet-icons-two-arrow-down:before {
+.zeinet-icons-two-arrow-down:before {
   content: "\e903";
 }
-.Broadlinkinternet-icons-two-award:before {
+.zeinet-icons-two-award:before {
   content: "\e904";
 }
-.Broadlinkinternet-icons-two-camera:before {
+.zeinet-icons-two-camera:before {
   content: "\e905";
 }
-.Broadlinkinternet-icons-two-cart:before {
+.zeinet-icons-two-cart:before {
   content: "\e906";
 }
-.Broadlinkinternet-icons-two-check-circle:before {
+.zeinet-icons-two-check-circle:before {
   content: "\e907";
 }
-.Broadlinkinternet-icons-two-download:before {
+.zeinet-icons-two-download:before {
   content: "\e908";
 }
-.Broadlinkinternet-icons-two-envelope:before {
+.zeinet-icons-two-envelope:before {
   content: "\e909";
 }
-.Broadlinkinternet-icons-two-internet:before {
+.zeinet-icons-two-internet:before {
   content: "\e90a";
 }
-.Broadlinkinternet-icons-two-location:before {
+.zeinet-icons-two-location:before {
   content: "\e90b";
 }
-.Broadlinkinternet-icons-two-movie:before {
+.zeinet-icons-two-movie:before {
   content: "\e90c";
 }
-.Broadlinkinternet-icons-two-phone:before {
+.zeinet-icons-two-phone:before {
   content: "\e90d";
 }
-.Broadlinkinternet-icons-two-play:before {
+.zeinet-icons-two-play:before {
   content: "\e90e";
 }
-.Broadlinkinternet-icons-two-project:before {
+.zeinet-icons-two-project:before {
   content: "\e90f";
 }
-.Broadlinkinternet-icons-two-review:before {
+.zeinet-icons-two-review:before {
   content: "\e910";
 }
-.Broadlinkinternet-icons-two-satelite:before {
+.zeinet-icons-two-satelite:before {
   content: "\e911";
 }
-.Broadlinkinternet-icons-two-service:before {
+.zeinet-icons-two-service:before {
   content: "\e912";
 }
-.Broadlinkinternet-icons-two-wifi:before {
+.zeinet-icons-two-wifi:before {
   content: "\e913";
 }
-.Broadlinkinternet-icons-two-wifi-two:before {
+.zeinet-icons-two-wifi-two:before {
   content: "\e914";
 }

@@ -29,7 +29,7 @@ body {
 }
 
 .main-menu__right-top::before {
-  background-color: var(--Broadlinkinternet-primary);
+  background-color: var(--zeinet-primary);
 }
 
 .brand-one-shape-1 img,
