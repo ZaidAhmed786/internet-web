@@ -124,8 +124,8 @@
 
 
 .nice-select .list {
-    background-color: var(--zeinet-base);
-    border-radius: var(--zeinet-bdr-radius);
+    background-color: var(--Broadlinkinternet-base);
+    border-radius: var(--Broadlinkinternet-bdr-radius);
     box-sizing: border-box;
     margin-top: 0px;
     opacity: 0;
@@ -169,7 +169,7 @@
 .nice-select .option.focus,
 .nice-select .option.selected.focus {
     color: #ffffff;
-    background-color: var(--zeinet-black);
+    background-color: var(--Broadlinkinternet-black);
 }
 
 .nice-select .option.selected {
