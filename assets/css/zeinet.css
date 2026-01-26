@@ -457,7 +457,7 @@ ul {
   background: transparent;
   position: absolute;
   left: 0px;
-  top: 30px;
+  top: 10vh;
   width: 100%;
   transition: all 500ms ease;
   z-index: 999;
@@ -486,7 +486,7 @@ ul {
 
 .main-menu__logo {
   display: block;
-  padding: 36.5px 0;
+  padding: 36.5px 0 0 0;
 }
 
 .main-menu__logo img {
